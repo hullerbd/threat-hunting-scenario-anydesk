@@ -7,7 +7,7 @@ Management suspects that some employees may be using AnyDesk App to allow an ext
 ---
 
 ## High-Level AnyDesk App related IoC Discovery Plan:
-1. Check DeviceFileEvents for any tor(.exe) or firefox(.exe) file events
+1. Check DeviceFileEvents for any AnyDesk(.exe) or opera(.exe) file events
 2. Check DeviceProcessEvents for any signs of installation or usage
 3. Check DeviceNetworkEvents for any signs of outgoing connections over known TOR ports
 

@@ -2,7 +2,7 @@
 **Detection of Unauthorized AnyDesk App Installation and Use**
 
 ## Example Scenario:
-Management suspects that some employees may be using AnyDesk App to allow an external entrance into the the company's system ***** network security controls because recent network logs show unusual encrypted traffic patterns and connections to known TOR entry nodes. Additionally, there have been anonymous reports of employees discussing ways to access restricted sites during work hours. The goal is to detect any TOR usage and analyze related security incidents to mitigate potential risks.
+Management suspects that some employees may be using AnyDesk App to allow an external access into the the company's system ***** network security controls because recent network logs show unusual encrypted traffic patterns and connections to known TOR entry nodes. Additionally, there have been anonymous reports of employees discussing ways to access restricted sites during work hours. The goal is to detect any TOR usage and analyze related security incidents to mitigate potential risks.
 
 ---
 
